@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346838759383",
+    "project_id": "desigarmi-1f23a",
+    "storage_bucket": "desigarmi-1f23a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346838759383:android:3ee3fd6770f50596823d92",
+        "android_client_info": {
+          "package_name": "com.Voovi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346838759383-571v03eg2v6ju452h4g3nprl4685gqav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Voovi.app",
+            "certificate_hash": "4e8164608bb8c3e9d05848288a57b2a45aff271f"
+          }
+        },
+        {
+          "client_id": "346838759383-e4kodmf1oo264lbhghh0d0puuqiou6sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Voovi.app",
+            "certificate_hash": "8037943c4381e824e154f4d84640b99f270b6bc4"
+          }
+        },
+        {
+          "client_id": "346838759383-6nal925saabk44kt7jnkgdds58l8g2qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQIsbyv50lcmf5qHT_UHP-hscYmu55bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346838759383-6nal925saabk44kt7jnkgdds58l8g2qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
