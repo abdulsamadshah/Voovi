@@ -2,7 +2,7 @@
 
 import 'package:country_picker/country_picker.dart';
 
-const APP_NAME = 'Desi Garmi';
+const APP_NAME = 'Voovi';
 const APP_MINI_LOGO_URL = '$DOMAIN_URL/img/logo/mini_logo.png';
 const APP_LOGO_URL = '$DOMAIN_URL/img/logo/logo.png';
 const DEFAULT_LANGUAGE = 'en';
@@ -14,7 +14,8 @@ const LIVE_AUTO_SLIDER_SECOND = 5;
 const API_VERSION = 2;
 
 ///DO NOT ADD SLASH HERE
-const DOMAIN_URL = "https://Voovi.karigarartstech.in";
+// const DOMAIN_URL = "https://desigarmi.karigarartstech.in";
+const DOMAIN_URL = "https://admin.wowentertainmenttech.in";
 
 const BASE_URL = '$DOMAIN_URL/api/';
 
