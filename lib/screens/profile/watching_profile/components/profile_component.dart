@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/cached_image_widget.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/screens/profile/watching_profile/components/verify_profile_pin_component.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/components/cached_image_widget.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/screens/profile/watching_profile/components/verify_profile_pin_component.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/generated/assets.dart';
 import '../model/profile_watching_model.dart';
 import '../watching_profile_controller.dart';
 

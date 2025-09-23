@@ -1,4 +1,4 @@
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 
 class RentedContent {

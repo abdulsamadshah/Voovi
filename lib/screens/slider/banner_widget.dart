@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/custom_icon_button_widget.dart';
-import 'package:Voovi/components/shimmer_widget.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/screens/slider/slider_controller.dart';
-import 'package:Voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/utils/empty_error_state_widget.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/components/custom_icon_button_widget.dart';
+import 'package:voovi/components/shimmer_widget.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/screens/slider/slider_controller.dart';
+import 'package:voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/utils/empty_error_state_widget.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 import '../../components/cached_image_widget.dart';
 import '../../generated/assets.dart';

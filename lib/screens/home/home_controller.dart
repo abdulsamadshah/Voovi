@@ -5,11 +5,11 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/ads/ads_helper.dart';
-import 'package:Voovi/screens/home/model/dashboard_res_model.dart';
-import 'package:Voovi/screens/watch_list/watch_list_controller.dart';
-import 'package:Voovi/utils/constants.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/ads/ads_helper.dart';
+import 'package:voovi/screens/home/model/dashboard_res_model.dart';
+import 'package:voovi/screens/watch_list/watch_list_controller.dart';
+import 'package:voovi/utils/constants.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 import '../../configs.dart';
 import '../../main.dart';
@@ -398,10 +398,10 @@ class HomeController extends GetxController {
       }
     }
 
-    if (appConfigs.value.enableRateUs && sectionList.indexWhere((element) => element.sectionType != "rate-our-app").isNegative) {
+    if (appConfigs.value.enableRateUs && sectionList.indexWhere((element) => element.sectionType != "rate-our-video").isNegative) {
       sectionList.add(
         CategoryListModel(
-          sectionType: "rate-our-app",
+          sectionType: "rate-our-video",
           data: [],
         ),
       );

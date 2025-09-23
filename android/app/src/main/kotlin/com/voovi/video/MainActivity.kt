@@ -1,4 +1,4 @@
-package com.Voovi.app
+package com.voovi.video
 
 import android.app.PictureInPictureParams
 import android.os.Build
@@ -10,7 +10,7 @@ import io.flutter.plugin.common.MethodChannel
 
 //FlPiPActivity()
 class MainActivity: FlutterFragmentActivity() {
-    private val CHANNEL: String = "flutter.Voovi.app.com.channel"
+    private val CHANNEL: String = "flutter.voovi.video.com.channel"
     private lateinit var channel: MethodChannel
 
     // New

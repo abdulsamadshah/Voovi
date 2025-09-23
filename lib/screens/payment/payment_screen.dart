@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/successfull_dialogbox.dart';
-import 'package:Voovi/screens/payment/components/payment_card_component.dart';
-import 'package:Voovi/screens/payment/payment_controller.dart';
-import 'package:Voovi/screens/subscription/model/subscription_plan_model.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/components/successfull_dialogbox.dart';
+import 'package:voovi/screens/payment/components/payment_card_component.dart';
+import 'package:voovi/screens/payment/payment_controller.dart';
+import 'package:voovi/screens/subscription/model/subscription_plan_model.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../components/loader_widget.dart';

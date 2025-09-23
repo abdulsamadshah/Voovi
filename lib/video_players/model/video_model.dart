@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/payment/model/pay_per_view_model.dart';
+import 'package:voovi/screens/payment/model/pay_per_view_model.dart';
 
 import '../../screens/genres/model/genres_model.dart';
 

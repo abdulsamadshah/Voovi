@@ -3,9 +3,9 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_scaffold.dart';
-import 'package:Voovi/screens/search/model/search_list_model.dart';
-import 'package:Voovi/screens/search/search_controller.dart';
+import 'package:voovi/components/app_scaffold.dart';
+import 'package:voovi/screens/search/model/search_list_model.dart';
+import 'package:voovi/screens/search/search_controller.dart';
 
 import '../../components/cached_image_widget.dart';
 import '../../main.dart';

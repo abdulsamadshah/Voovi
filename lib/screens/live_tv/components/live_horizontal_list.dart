@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../../../utils/app_common.dart';
 import '../../channel_list/channel_list_screen.dart';

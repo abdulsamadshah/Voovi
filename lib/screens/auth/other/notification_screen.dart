@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_logo_widget.dart';
-import 'package:Voovi/components/loader_widget.dart';
-import 'package:Voovi/utils/extension/string_extention.dart';
+import 'package:voovi/components/app_logo_widget.dart';
+import 'package:voovi/components/loader_widget.dart';
+import 'package:voovi/utils/extension/string_extention.dart';
 
 import '../../../components/app_scaffold.dart';
 import '../../../utils/colors.dart';

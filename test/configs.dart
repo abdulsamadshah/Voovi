@@ -48,16 +48,16 @@ const String payPalSupportedCurrency = 'USD';
 // const INTERSTITIAL_AD_ID = "564-454-6127";
 // const BANNER_AD_ID = "564-454-6127";
 
-const INTERSTITIAL_AD_ID = "ca-app-pub-3940256099942544/1033173712";
+const INTERSTITIAL_AD_ID = "ca-video-pub-3940256099942544/1033173712";
 
-const BANNER_AD_ID = "ca-app-pub-3 940256099942544/9214589741";
+const BANNER_AD_ID = "ca-video-pub-3 940256099942544/9214589741";
 
 
 // //IOS
 const IOS_INTERSTITIAL_AD_ID = "Please add your ad id here";
 const IOS_BANNER_AD_ID = "Please add your ad id here";
 
-//Note: For FIREBASE_SERVER_CLIENT_ID ---> Go to android/app/google-services.json
+//Note: For FIREBASE_SERVER_CLIENT_ID ---> Go to android/video/google-services.json
 // - Find press ctrl+F and look for "client_type": 3
 // "client_id" in same object has be pasted here
 const FIREBASE_SERVER_CLIENT_ID = '346838759383-6nal925saabk44kt7jnkgdds58l8g2qi.apps.googleusercontent.com';

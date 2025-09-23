@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/setting/subscription_history/rental_history_controller.dart';
-import 'package:Voovi/screens/subscription/components/rented_history_card.dart';
+import 'package:voovi/screens/setting/subscription_history/rental_history_controller.dart';
+import 'package:voovi/screens/subscription/components/rented_history_card.dart';
 
 import '../../../components/app_scaffold.dart';
 import '../../../main.dart';

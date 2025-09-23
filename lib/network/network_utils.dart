@@ -9,8 +9,8 @@ import 'package:http/http.dart' as http;
 import 'package:http/http.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/models/base_response_model.dart';
-import 'package:Voovi/screens/dashboard/dashboard_screen.dart';
+import 'package:voovi/models/base_response_model.dart';
+import 'package:voovi/screens/dashboard/dashboard_screen.dart';
 
 import 'auth_apis.dart';
 import '../configs.dart';

@@ -7,11 +7,11 @@ import 'package:html/parser.dart';
 import 'package:intl/intl.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:screen_protector/screen_protector.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/screens/auth/sign_in/sign_in_screen.dart';
-import 'package:Voovi/screens/dashboard/dashboard_controller.dart';
-import 'package:Voovi/screens/profile/watching_profile/model/profile_watching_model.dart';
-import 'package:Voovi/utils/price_widget.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/screens/auth/sign_in/sign_in_screen.dart';
+import 'package:voovi/screens/dashboard/dashboard_controller.dart';
+import 'package:voovi/screens/profile/watching_profile/model/profile_watching_model.dart';
+import 'package:voovi/utils/price_widget.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 import '../components/cached_image_widget.dart';
@@ -28,7 +28,7 @@ import 'common_base.dart';
 import 'constants.dart';
 
 ///DO NOT CHANGE THE APP PACKAGE NAME
-String appPackageName = 'com.Voovi.app';
+String appPackageName = 'com.voovi.video';
 
 Future<bool> get isIqonicProduct async => await getPackageName() == appPackageName;
 

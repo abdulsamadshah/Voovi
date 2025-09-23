@@ -3,11 +3,11 @@ import 'package:get/get.dart';
 import 'package:media_kit/media_kit.dart';
 import 'package:media_kit_video/media_kit_video.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/video_players/y_player_widget.dart';
-import 'package:Voovi/video_players/video_player_controller.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
-import 'package:Voovi/screens/live_tv/live_tv_details/model/live_tv_details_response.dart';
-import 'package:Voovi/utils/extension/string_extention.dart';
+import 'package:voovi/video_players/y_player_widget.dart';
+import 'package:voovi/video_players/video_player_controller.dart';
+import 'package:voovi/video_players/model/video_model.dart';
+import 'package:voovi/screens/live_tv/live_tv_details/model/live_tv_details_response.dart';
+import 'package:voovi/utils/extension/string_extention.dart';
 import 'package:y_player/y_player.dart';
 
 import '../../components/loader_widget.dart';

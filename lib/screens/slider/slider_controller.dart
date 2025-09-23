@@ -2,14 +2,14 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/network/core_api.dart';
-import 'package:Voovi/screens/home/model/dashboard_res_model.dart';
-import 'package:Voovi/screens/profile/profile_controller.dart';
-import 'package:Voovi/screens/watch_list/watch_list_controller.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/network/core_api.dart';
+import 'package:voovi/screens/home/model/dashboard_res_model.dart';
+import 'package:voovi/screens/profile/profile_controller.dart';
+import 'package:voovi/screens/watch_list/watch_list_controller.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 class SliderController extends GetxController {
   RxBool isLoading = false.obs;

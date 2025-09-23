@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_scaffold.dart';
-import 'package:Voovi/utils/extension/string_extention.dart';
+import 'package:voovi/components/app_scaffold.dart';
+import 'package:voovi/utils/extension/string_extention.dart';
 
 import '../../../components/cached_image_widget.dart';
 import '../../../generated/assets.dart';

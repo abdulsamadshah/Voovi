@@ -6,14 +6,14 @@ import 'package:media_kit_video/media_kit_video.dart';
 import 'package:media_kit_video/media_kit_video_controls/src/controls/methods/video_state.dart';
 import 'package:media_kit_video/media_kit_video_controls/src/controls/widgets/video_controls_theme_data_injector.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/video_players/component/ad_widgets.dart';
-import 'package:Voovi/video_players/component/overlay_ad_widget.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
-import 'package:Voovi/video_players/video_player_controller.dart';
-import 'package:Voovi/video_players/y_player_material.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/video_players/component/ad_widgets.dart';
+import 'package:voovi/video_players/component/overlay_ad_widget.dart';
+import 'package:voovi/video_players/model/video_model.dart';
+import 'package:voovi/video_players/video_player_controller.dart';
+import 'package:voovi/video_players/y_player_material.dart';
 import 'package:y_player/y_player.dart';
 
 /// A customizable YouTube video player widget.
@@ -585,7 +585,7 @@ class QualitySelectionSheet extends StatelessWidget {
   /// The currently selected quality
   final int selectedQuality;
 
-  /// The primary color of the app
+  /// The primary color of the video
   final Color primaryColor;
 
   /// List of available quality options

@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../main.dart';
@@ -120,14 +120,14 @@ class PushNotificationService {
         log("${FirebaseMsgConst.onMessageListen} $e");
       });
 
-      // replacement for onResume: When the app is in the background and opened directly from the push notification.
+      // replacement for onResume: When the video is in the background and opened directly from the push notification.
       FirebaseMessaging.onMessageOpenedApp.listen((RemoteMessage message) {
         handleNotificationClick(message);
       }, onError: (e) {
         log("${FirebaseMsgConst.onMessageOpened} $e");
       });
 
-      // workaround for onLaunch: When the app is completely closed (not in the background) and opened directly from the push notification
+      // workaround for onLaunch: When the video is completely closed (not in the background) and opened directly from the push notification
       FirebaseMessaging.instance.getInitialMessage().then((RemoteMessage? message) {
         if (message != null) {
           handleNotificationClick(message);

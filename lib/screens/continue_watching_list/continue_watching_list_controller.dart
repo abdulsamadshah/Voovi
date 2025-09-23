@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:get/get.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/utils/common_base.dart';
 
 import '../../network/core_api.dart';
 import '../../video_players/model/video_model.dart';

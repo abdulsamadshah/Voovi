@@ -1,4 +1,4 @@
-import 'package:Voovi/screens/setting/account_setting/model/account_setting_response.dart';
+import 'package:voovi/screens/setting/account_setting/model/account_setting_response.dart';
 
 class ErrorModel {
   String error;

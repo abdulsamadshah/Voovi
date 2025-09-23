@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/main.dart';
+import 'package:voovi/main.dart';
 
 import '../../network/core_api.dart';
 import '../../video_players/model/video_model.dart';

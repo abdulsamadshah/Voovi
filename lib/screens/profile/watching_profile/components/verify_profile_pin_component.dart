@@ -2,11 +2,11 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/screens/profile/watching_profile/model/profile_watching_model.dart';
-import 'package:Voovi/screens/profile/watching_profile/watching_profile_controller.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/screens/profile/watching_profile/model/profile_watching_model.dart';
+import 'package:voovi/screens/profile/watching_profile/watching_profile_controller.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
 
 class VerifyProfilePinComponent extends StatelessWidget {
   final WatchingProfileModel profile;

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/home/model/dashboard_res_model.dart';
-import 'package:Voovi/screens/profile/components/profile_card_component.dart';
-import 'package:Voovi/screens/profile/components/user_profile_component.dart';
-import 'package:Voovi/screens/profile/shimmer_profile.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/screens/home/model/dashboard_res_model.dart';
+import 'package:voovi/screens/profile/components/profile_card_component.dart';
+import 'package:voovi/screens/profile/components/user_profile_component.dart';
+import 'package:voovi/screens/profile/shimmer_profile.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../components/cached_image_widget.dart';

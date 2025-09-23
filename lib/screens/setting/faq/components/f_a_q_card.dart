@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/setting/model/faq_model.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/screens/setting/model/faq_model.dart';
+import 'package:voovi/utils/app_common.dart';
 
 class FAQCard extends StatelessWidget {
   final FAQModel faqData;

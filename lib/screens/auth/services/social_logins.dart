@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/configs.dart';
+import 'package:voovi/configs.dart';
 import 'package:the_apple_sign_in/the_apple_sign_in.dart';
 import '../../../main.dart';
 import '../../../utils/constants.dart';

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/constants.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/constants.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 import '../../../components/cached_image_widget.dart';
 import '../../../main.dart';

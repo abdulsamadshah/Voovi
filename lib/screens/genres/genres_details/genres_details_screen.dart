@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/genres/genres_details/genres_details_controller.dart';
+import 'package:voovi/screens/genres/genres_details/genres_details_controller.dart';
 
 import '../../../components/app_scaffold.dart';
 import '../../../utils/colors.dart';

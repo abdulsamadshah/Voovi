@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 import '../../../main.dart';
 import '../../../utils/app_common.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/subscription/model/rental_history_model.dart';
-import 'package:Voovi/utils/price_widget.dart';
+import 'package:voovi/screens/subscription/model/rental_history_model.dart';
+import 'package:voovi/utils/price_widget.dart';
 
 import '../../../utils/common_base.dart';
 

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:get/get.dart';
-import 'package:Voovi/screens/movie_list/movie_list_screen.dart';
+import 'package:voovi/screens/movie_list/movie_list_screen.dart';
 
 import '../../../components/cached_image_widget.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/generated/assets.dart';
 import '../../../main.dart';
 import '../../../utils/colors.dart';
 import '../../../utils/common_base.dart';

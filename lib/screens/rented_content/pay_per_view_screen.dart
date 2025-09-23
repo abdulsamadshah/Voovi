@@ -3,10 +3,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/movie_list/shimmer_movie_list/shimmer_movie_list.dart';
-import 'package:Voovi/screens/rented_content/pay_per_view_controller.dart';
-import 'package:Voovi/utils/api_end_points.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/screens/movie_list/shimmer_movie_list/shimmer_movie_list.dart';
+import 'package:voovi/screens/rented_content/pay_per_view_controller.dart';
+import 'package:voovi/utils/api_end_points.dart';
+import 'package:voovi/utils/colors.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../main.dart';

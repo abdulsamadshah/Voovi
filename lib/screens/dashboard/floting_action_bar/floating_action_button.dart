@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/movie_list/movie_list_screen.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/screens/movie_list/movie_list_screen.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
 import '../../../main.dart';
 import '../../tv_show/tvshow_list_screen.dart';
 import '../../video/video_list_screen.dart';

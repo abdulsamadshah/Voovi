@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/screens/home/model/dashboard_res_model.dart';
-import 'package:Voovi/screens/profile/profile_controller.dart';
-import 'package:Voovi/screens/rented_content/pay_per_view_screen.dart';
-import 'package:Voovi/screens/tv_show/tv_show_screen.dart';
-import 'package:Voovi/screens/watch_list/watch_list_screen.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/screens/home/model/dashboard_res_model.dart';
+import 'package:voovi/screens/profile/profile_controller.dart';
+import 'package:voovi/screens/rented_content/pay_per_view_screen.dart';
+import 'package:voovi/screens/tv_show/tv_show_screen.dart';
+import 'package:voovi/screens/watch_list/watch_list_screen.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
 
 import '../../../main.dart';
 import '../../../screens/channel_list/channel_list_screen.dart';

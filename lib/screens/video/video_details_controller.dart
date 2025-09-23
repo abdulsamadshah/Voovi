@@ -4,9 +4,9 @@ import 'dart:ui';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/video/video_details/model/video_details_resp.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/screens/video/video_details/model/video_details_resp.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 import '../../network/core_api.dart';

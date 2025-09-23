@@ -3,8 +3,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
 
 import '../../main.dart';
 import 'choose_option_screen.dart';

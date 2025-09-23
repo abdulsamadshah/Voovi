@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_scaffold.dart';
-import 'package:Voovi/screens/tv_show/components/tv_show_details_component.dart';
-import 'package:Voovi/screens/tv_show/tv_show_controller.dart';
-import 'package:Voovi/screens/tv_show/tv_show_shimmer_screen.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/components/app_scaffold.dart';
+import 'package:voovi/screens/tv_show/components/tv_show_details_component.dart';
+import 'package:voovi/screens/tv_show/tv_show_controller.dart';
+import 'package:voovi/screens/tv_show/tv_show_shimmer_screen.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../../main.dart';
 import '../../utils/colors.dart';

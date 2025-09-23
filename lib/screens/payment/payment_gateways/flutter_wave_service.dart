@@ -3,14 +3,14 @@ import 'package:flutterwave_standard/core/flutterwave.dart';
 import 'package:flutterwave_standard/models/requests/customer.dart';
 import 'package:flutterwave_standard/models/requests/customizations.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/configs.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/network/network_utils.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/configs.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/network/network_utils.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/constants.dart';
 import 'package:uuid/uuid.dart';
 
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/generated/assets.dart';
 
 class FlutterWaveService {
   final Customer customer = Customer(

@@ -1,5 +1,5 @@
 class APIEndPoints {
-  static const String appConfiguration = 'app-configuration';
+  static const String appConfiguration = 'video-configuration';
 
   //Auth & User
   static const String register = 'register';

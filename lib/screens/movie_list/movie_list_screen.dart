@@ -3,12 +3,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/dashboard/components/floating_widget.dart';
-import 'package:Voovi/screens/movie_list/movie_list_controller.dart';
-import 'package:Voovi/screens/movie_list/shimmer_movie_list/shimmer_movie_list.dart';
-import 'package:Voovi/screens/slider/banner_widget.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/screens/dashboard/components/floating_widget.dart';
+import 'package:voovi/screens/movie_list/movie_list_controller.dart';
+import 'package:voovi/screens/movie_list/shimmer_movie_list/shimmer_movie_list.dart';
+import 'package:voovi/screens/slider/banner_widget.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../main.dart';

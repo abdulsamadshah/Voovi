@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/subscription/subscription_controller.dart';
+import 'package:voovi/screens/subscription/subscription_controller.dart';
 import '../../../../utils/app_common.dart';
 import '../../model/subscription_plan_model.dart';
 import 'subscription_card.dart';

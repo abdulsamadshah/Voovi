@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/person/person_detail_screen.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/screens/person/person_detail_screen.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../../../components/cached_image_widget.dart';
 import '../../person/model/person_model.dart';

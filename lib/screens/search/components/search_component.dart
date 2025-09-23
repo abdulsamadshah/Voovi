@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/coming_soon/coming_soon_detail_screen.dart';
-import 'package:Voovi/screens/coming_soon/model/coming_soon_response.dart';
-import 'package:Voovi/screens/search/search_controller.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/screens/coming_soon/coming_soon_detail_screen.dart';
+import 'package:voovi/screens/coming_soon/model/coming_soon_response.dart';
+import 'package:voovi/screens/search/search_controller.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
 
 import '../../../main.dart';
 import '../../../utils/animatedscroll_view_widget.dart';

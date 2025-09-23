@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/generated/assets.dart';
 
 
 class EmptyStateWidget extends StatelessWidget {

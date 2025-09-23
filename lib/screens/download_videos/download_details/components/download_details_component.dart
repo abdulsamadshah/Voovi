@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:Voovi/components/cached_image_widget.dart';
+import 'package:voovi/components/cached_image_widget.dart';
 import 'package:nb_utils/nb_utils.dart';
 import '../../../../utils/colors.dart';
 import '../../../../video_players/model/video_model.dart';

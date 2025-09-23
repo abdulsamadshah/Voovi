@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/loader_widget.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/screens/search/components/search_text_field.dart';
-import 'package:Voovi/screens/search/shimmer_search.dart';
+import 'package:voovi/components/loader_widget.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/screens/search/components/search_text_field.dart';
+import 'package:voovi/screens/search/shimmer_search.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../utils/app_common.dart';

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:Voovi/components/cached_image_widget.dart';
-import 'package:Voovi/screens/profile/edit_profile/edit_profile_screen.dart';
-import 'package:Voovi/screens/profile/model/profile_detail_resp.dart';
+import 'package:voovi/components/cached_image_widget.dart';
+import 'package:voovi/screens/profile/edit_profile/edit_profile_screen.dart';
+import 'package:voovi/screens/profile/model/profile_detail_resp.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/profile/profile_controller.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/screens/profile/profile_controller.dart';
+import 'package:voovi/utils/colors.dart';
 
 import '../../../generated/assets.dart';
 

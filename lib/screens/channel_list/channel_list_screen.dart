@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/utils/colors.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../main.dart';

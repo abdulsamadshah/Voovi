@@ -1,4 +1,4 @@
-import 'package:Voovi/screens/subscription/model/subscription_plan_model.dart';
+import 'package:voovi/screens/subscription/model/subscription_plan_model.dart';
 
 class SubscriptionResponseModel {
   bool status;

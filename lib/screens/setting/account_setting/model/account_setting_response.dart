@@ -1,4 +1,4 @@
-import 'package:Voovi/screens/auth/model/about_page_res.dart';
+import 'package:voovi/screens/auth/model/about_page_res.dart';
 
 import '../../../subscription/model/subscription_plan_model.dart';
 

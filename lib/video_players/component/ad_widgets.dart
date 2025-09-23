@@ -3,8 +3,8 @@ import 'package:get/get.dart';
 import 'package:media_kit_video/media_kit_video.dart';
 import 'package:flutter_custom_tabs/flutter_custom_tabs.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/video_players/video_player_controller.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/video_players/video_player_controller.dart';
 import '../../utils/colors.dart';
 import '../component/custom_progress_bar.dart';
 

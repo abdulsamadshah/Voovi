@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:Voovi/screens/genres/model/genres_model.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/screens/genres/model/genres_model.dart';
+import 'package:voovi/utils/colors.dart';
 
 import '../../../../components/cached_image_widget.dart';
 

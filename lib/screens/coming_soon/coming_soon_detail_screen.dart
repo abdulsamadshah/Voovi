@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/coming_soon/coming_soon_detail_shimmer_screen.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/video_players/video_player.dart';
+import 'package:voovi/screens/coming_soon/coming_soon_detail_shimmer_screen.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/video_players/video_player.dart';
 
 import '../../../components/cached_image_widget.dart';
 import '../../../main.dart';

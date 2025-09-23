@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/auth/model/login_response.dart';
-import 'package:Voovi/screens/subscription/model/subscription_plan_model.dart';
+import 'package:voovi/screens/auth/model/login_response.dart';
+import 'package:voovi/screens/subscription/model/subscription_plan_model.dart';
 
 import '../../../network/core_api.dart';
 import '../../../utils/app_common.dart';

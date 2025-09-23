@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/tv_show/tv_show_screen.dart';
-import 'package:Voovi/screens/video/video_details_screen.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/screens/tv_show/tv_show_screen.dart';
+import 'package:voovi/screens/video/video_details_screen.dart';
+import 'package:voovi/utils/app_common.dart';
 
 import '../../../components/category_list/movie_horizontal/poster_card_component.dart';
 import '../../../components/loader_widget.dart';

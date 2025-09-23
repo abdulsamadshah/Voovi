@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:purchases_flutter/models/store_product_wrapper.dart';
-import 'package:Voovi/components/u_l_widget.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/utils/price_widget.dart';
+import 'package:voovi/components/u_l_widget.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/utils/price_widget.dart';
 
 import '../../../../components/cached_image_widget.dart';
 import '../../../../main.dart';

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/home/model/dashboard_res_model.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/screens/home/model/dashboard_res_model.dart';
+import 'package:voovi/utils/app_common.dart';
 
 import '../../../../components/shimmer_widget.dart';
 import '../../../genres/genres_details/genres_details_controller.dart';

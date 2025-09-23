@@ -3,13 +3,13 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_toggle_widget.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/screens/profile/components/delete_profile_component.dart';
-import 'package:Voovi/screens/profile/watching_profile/watching_profile_controller.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/components/app_toggle_widget.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/screens/profile/components/delete_profile_component.dart';
+import 'package:voovi/screens/profile/watching_profile/watching_profile_controller.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/generated/assets.dart';
 
 class AddUpdateProfileDialogComponent extends StatelessWidget {
   final bool isEdit;

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import 'package:Voovi/utils/constants.dart';
-import 'package:Voovi/utils/extension/date_time_extention.dart';
-import 'package:Voovi/utils/extension/string_extention.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/utils/constants.dart';
+import 'package:voovi/utils/extension/date_time_extention.dart';
+import 'package:voovi/utils/extension/string_extention.dart';
+import 'package:voovi/generated/assets.dart';
 import '../../../../main.dart';
 import '../../../../utils/app_common.dart';
 import '../../../../utils/colors.dart';

@@ -1,7 +1,7 @@
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/genres/model/genres_model.dart';
-import 'package:Voovi/screens/review_list/model/review_model.dart';
-import 'package:Voovi/screens/tv_show/models/season_model.dart';
+import 'package:voovi/screens/genres/model/genres_model.dart';
+import 'package:voovi/screens/review_list/model/review_model.dart';
+import 'package:voovi/screens/tv_show/models/season_model.dart';
 
 import '../../../video_players/model/video_model.dart';
 import '../../person/model/person_model.dart';

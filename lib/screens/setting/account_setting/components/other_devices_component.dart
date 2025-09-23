@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/setting/account_setting/components/your_device/device_card.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/screens/setting/account_setting/components/your_device/device_card.dart';
+import 'package:voovi/utils/common_base.dart';
 
 import '../../../../main.dart';
 import '../../../../utils/colors.dart';

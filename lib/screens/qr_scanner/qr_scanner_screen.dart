@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/screens/qr_scanner/qr_scanner_controller.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/screens/qr_scanner/qr_scanner_controller.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../utils/colors.dart';

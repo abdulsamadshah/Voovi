@@ -4,10 +4,10 @@ import 'package:country_picker/country_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/network/auth_apis.dart';
-import 'package:Voovi/screens/auth/sign_in/sign_in_controller.dart';
-import 'package:Voovi/screens/profile/watching_profile/watching_profile_screen.dart';
-import 'package:Voovi/utils/extension/string_extention.dart';
+import 'package:voovi/network/auth_apis.dart';
+import 'package:voovi/screens/auth/sign_in/sign_in_controller.dart';
+import 'package:voovi/screens/profile/watching_profile/watching_profile_screen.dart';
+import 'package:voovi/utils/extension/string_extention.dart';
 
 import '../../../configs.dart';
 import '../../../main.dart';

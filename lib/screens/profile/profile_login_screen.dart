@@ -2,9 +2,9 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_logo_widget.dart';
-import 'package:Voovi/screens/auth/sign_in/sign_in_screen.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/components/app_logo_widget.dart';
+import 'package:voovi/screens/auth/sign_in/sign_in_screen.dart';
+import 'package:voovi/generated/assets.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../components/cached_image_widget.dart';

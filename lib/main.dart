@@ -15,16 +15,16 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:media_kit/media_kit.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/locale/language_en.dart';
-import 'package:Voovi/screens/auth/model/app_configuration_res.dart';
-import 'package:Voovi/screens/auth/model/login_response.dart';
-import 'package:Voovi/screens/coming_soon/model/coming_soon_response.dart';
-import 'package:Voovi/screens/home/model/dashboard_res_model.dart';
-import 'package:Voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
-import 'package:Voovi/screens/person/model/person_model.dart';
-import 'package:Voovi/services/in_app_purhcase_service.dart';
-import 'package:Voovi/utils/local_storage.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/locale/language_en.dart';
+import 'package:voovi/screens/auth/model/app_configuration_res.dart';
+import 'package:voovi/screens/auth/model/login_response.dart';
+import 'package:voovi/screens/coming_soon/model/coming_soon_response.dart';
+import 'package:voovi/screens/home/model/dashboard_res_model.dart';
+import 'package:voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
+import 'package:voovi/screens/person/model/person_model.dart';
+import 'package:voovi/services/in_app_purhcase_service.dart';
+import 'package:voovi/utils/local_storage.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 import 'package:y_player/y_player.dart';
 
 import 'app_theme.dart';
@@ -72,7 +72,7 @@ RxList<ChannelModel> cachedChannelList = RxList();
 RxList<PersonModel> cachedPersonList = RxList();
 RxBool isChild = true.obs;
 
-const platform = MethodChannel('flutter.Voovi.app.com.channel');
+const platform = MethodChannel('flutter.voovi.video.com.channel');
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

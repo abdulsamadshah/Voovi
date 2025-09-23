@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:get/get.dart';
-import 'package:Voovi/screens/dashboard/dashboard_controller.dart';
-import 'package:Voovi/screens/home/home_controller.dart';
-import 'package:Voovi/screens/setting/setting_controller.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/screens/dashboard/dashboard_controller.dart';
+import 'package:voovi/screens/home/home_controller.dart';
+import 'package:voovi/screens/setting/setting_controller.dart';
+import 'package:voovi/utils/app_common.dart';
 import '../../../components/app_scaffold.dart';
 import '../../../locale/app_localizations.dart';
 import '../../../locale/languages.dart';

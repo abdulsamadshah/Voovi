@@ -1,4 +1,4 @@
-import 'package:Voovi/screens/watch_list/model/watch_list_resp.dart';
+import 'package:voovi/screens/watch_list/model/watch_list_resp.dart';
 
 import '../../../video_players/model/video_model.dart';
 import '../../genres/model/genres_model.dart';

@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/utils/colors.dart';
 
 enum AppShaderMode {
   primary,

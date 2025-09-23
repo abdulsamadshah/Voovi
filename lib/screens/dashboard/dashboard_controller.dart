@@ -3,16 +3,16 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/ads/custom_ads/ad_player_controller.dart';
-import 'package:Voovi/ads/model/custom_ad_response.dart';
-import 'package:Voovi/network/core_api.dart';
-import 'package:Voovi/screens/coming_soon/coming_soon_controller.dart';
-import 'package:Voovi/screens/coming_soon/coming_soon_screen.dart';
-import 'package:Voovi/screens/live_tv/live_tv_controller.dart';
-import 'package:Voovi/screens/live_tv/live_tv_screen.dart';
-import 'package:Voovi/screens/profile/profile_screen.dart';
-import 'package:Voovi/screens/search/search_screen.dart';
-import 'package:Voovi/video_players/model/vast_ad_response.dart';
+import 'package:voovi/ads/custom_ads/ad_player_controller.dart';
+import 'package:voovi/ads/model/custom_ad_response.dart';
+import 'package:voovi/network/core_api.dart';
+import 'package:voovi/screens/coming_soon/coming_soon_controller.dart';
+import 'package:voovi/screens/coming_soon/coming_soon_screen.dart';
+import 'package:voovi/screens/live_tv/live_tv_controller.dart';
+import 'package:voovi/screens/live_tv/live_tv_screen.dart';
+import 'package:voovi/screens/profile/profile_screen.dart';
+import 'package:voovi/screens/search/search_screen.dart';
+import 'package:voovi/video_players/model/vast_ad_response.dart';
 
 import '../../network/auth_apis.dart';
 import '../../main.dart';

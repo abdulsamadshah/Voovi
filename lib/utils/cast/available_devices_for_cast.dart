@@ -4,9 +4,9 @@ import 'package:flutter_chrome_cast/_session_manager/cast_session_manager.dart';
 import 'package:flutter_chrome_cast/entities/cast_device.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/loader_widget.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/components/loader_widget.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
 
 import '../../main.dart';
 import '../empty_error_state_widget.dart';

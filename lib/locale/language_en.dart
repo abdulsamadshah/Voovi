@@ -41,7 +41,7 @@ class LanguageEn extends BaseLanguage {
   String get reload => 'Reload';
 
   @override
-  String get pressBackAgainToExitApp => 'Press back again to exit app';
+  String get pressBackAgainToExitApp => 'Press back again to exit video';
 
   @override
   String get invalidUrl => 'Invalid URL';

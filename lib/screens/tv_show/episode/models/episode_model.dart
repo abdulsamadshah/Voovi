@@ -1,5 +1,5 @@
-import 'package:Voovi/screens/subscription/model/subscription_plan_model.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/screens/subscription/model/subscription_plan_model.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../../../../video_players/model/video_model.dart';
 import '../../../genres/model/genres_model.dart';

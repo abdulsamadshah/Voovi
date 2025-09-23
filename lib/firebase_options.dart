@@ -36,13 +36,14 @@ class DefaultFirebaseOptions {
     }
   }
 
-  ///Note : Values available android/app/google-services.json
+  ///Note : Values available android/video/google-services.json
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: "AIzaSyDQQIsbyv50lcmf5qHT_UHP-hscYmu55bw",
-    appId: "1:346838759383:android:3ee3fd6770f50596823d92",
-    messagingSenderId: "346838759383",
-    projectId: "Voovi-1f23a",
-    storageBucket: "Voovi-1f23a.firebasestorage.app",
+    apiKey: "AIzaSyAFkNzmHTpNXcy7DnsK2iTw8FSstm7gpy8",
+
+    appId: "1:132172456289:android:ac52d2898c44276643a520",
+    messagingSenderId: "132172456289",
+    projectId: "vooviapp-e1eac",
+    storageBucket: "vooviapp-e1eac.firebasestorage.app",
   );
 
   ///Note : Values available ios/Runner/GoogleService-Info.plist

@@ -4,12 +4,12 @@ import 'dart:ui';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/download_videos/download_video.dart';
-import 'package:Voovi/screens/home/home_controller.dart';
-import 'package:Voovi/screens/movie_details/model/movie_details_resp.dart';
-import 'package:Voovi/screens/profile/profile_controller.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/screens/download_videos/download_video.dart';
+import 'package:voovi/screens/home/home_controller.dart';
+import 'package:voovi/screens/movie_details/model/movie_details_resp.dart';
+import 'package:voovi/screens/profile/profile_controller.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 import '../../network/core_api.dart';

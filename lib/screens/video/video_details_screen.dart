@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/video/video_details/components/video_details_component.dart';
-import 'package:Voovi/screens/video/video_details_controller.dart';
-import 'package:Voovi/screens/video/video_details_shimmer_screen.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/screens/video/video_details/components/video_details_component.dart';
+import 'package:voovi/screens/video/video_details_controller.dart';
+import 'package:voovi/screens/video/video_details_shimmer_screen.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../main.dart';

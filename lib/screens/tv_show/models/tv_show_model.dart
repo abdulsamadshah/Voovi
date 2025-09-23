@@ -1,5 +1,5 @@
-import 'package:Voovi/screens/review_list/model/review_model.dart';
-import 'package:Voovi/screens/tv_show/models/tv_show_details_model.dart';
+import 'package:voovi/screens/review_list/model/review_model.dart';
+import 'package:voovi/screens/tv_show/models/tv_show_details_model.dart';
 
 import '../../subscription/model/subscription_plan_model.dart';
 

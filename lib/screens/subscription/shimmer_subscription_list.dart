@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/shimmer_widget.dart';
+import 'package:voovi/components/shimmer_widget.dart';
 
 import '../../utils/colors.dart';
 import '../../utils/constants.dart';

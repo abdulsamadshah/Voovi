@@ -1,9 +1,9 @@
 import 'package:flutter/widgets.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/utils/price_widget.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/utils/price_widget.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 import '../../../main.dart';
 import '../../subscription/model/subscription_plan_model.dart';

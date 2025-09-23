@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/auth/change_password/password_set_success.dart';
+import 'package:voovi/screens/auth/change_password/password_set_success.dart';
 
 import '../../../main.dart';
 import '../../../network/auth_apis.dart';

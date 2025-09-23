@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/ads/components/custom_ad_slider_widget.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/ads/components/custom_ad_slider_widget.dart';
+import 'package:voovi/utils/app_common.dart';
 
 import '../../../../utils/common_base.dart';
 import '../../screens/home/components/ad_component.dart';

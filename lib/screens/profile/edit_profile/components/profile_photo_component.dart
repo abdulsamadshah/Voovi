@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:Voovi/components/cached_image_widget.dart';
-import 'package:Voovi/components/loader_widget.dart';
-import 'package:Voovi/screens/profile/edit_profile/edit_profile_controller.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/components/cached_image_widget.dart';
+import 'package:voovi/components/loader_widget.dart';
+import 'package:voovi/screens/profile/edit_profile/edit_profile_controller.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/constants.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/generated/assets.dart';
 
 class ProfilePicComponent extends StatelessWidget {
   ProfilePicComponent({super.key});

@@ -7,11 +7,11 @@ import 'package:flutter_chrome_cast/entities/cast_session.dart';
 import 'package:flutter_chrome_cast/enums/connection_state.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/ads/components/custom_ad_component.dart';
-import 'package:Voovi/components/loader_widget.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/screens/tv_show/components/tv_show_season_component.dart';
+import 'package:voovi/ads/components/custom_ad_component.dart';
+import 'package:voovi/components/loader_widget.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/screens/tv_show/components/tv_show_season_component.dart';
 
 import '../../../components/custom_icon_button_widget.dart';
 import '../../../utils/app_common.dart';

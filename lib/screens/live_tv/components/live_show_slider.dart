@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/screens/live_tv/components/live_card.dart';
-import 'package:Voovi/screens/live_tv/live_tv_controller.dart';
-import 'package:Voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/screens/live_tv/components/live_card.dart';
+import 'package:voovi/screens/live_tv/live_tv_controller.dart';
+import 'package:voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
+import 'package:voovi/utils/colors.dart';
 
 import '../../../components/cached_image_widget.dart';
 import '../../../main.dart';

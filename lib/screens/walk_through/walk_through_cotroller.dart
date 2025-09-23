@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/main.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/main.dart';
 
 class WalkThroughController extends GetxController {
   RxList<WalkThroughModelClass> pages = RxList();

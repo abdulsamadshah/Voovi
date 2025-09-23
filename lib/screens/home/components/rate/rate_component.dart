@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:Voovi/screens/home/model/dashboard_res_model.dart';
+import 'package:voovi/screens/home/model/dashboard_res_model.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
 import '../../../../components/cached_image_widget.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/generated/assets.dart';
 import '../../../../main.dart';
 import 'package:get/get.dart';
 

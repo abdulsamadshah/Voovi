@@ -1,4 +1,4 @@
-import 'package:Voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
+import 'package:voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
 
 
 class LiveShowDetailResponse {

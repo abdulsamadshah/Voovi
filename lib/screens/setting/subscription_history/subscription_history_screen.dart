@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_dialog_widget.dart';
-import 'package:Voovi/screens/subscription/components/subscription_history_card.dart';
-import 'package:Voovi/utils/constants.dart';
-import 'package:Voovi/utils/price_widget.dart';
+import 'package:voovi/components/app_dialog_widget.dart';
+import 'package:voovi/screens/subscription/components/subscription_history_card.dart';
+import 'package:voovi/utils/constants.dart';
+import 'package:voovi/utils/price_widget.dart';
 
 import '../../../components/app_scaffold.dart';
 import '../../../main.dart';

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/utils/colors.dart';
 import '../utils/price_widget.dart';
 import '../utils/app_common.dart';
 import '../utils/common_base.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/utils/extension/num_extenstions.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/utils/extension/num_extenstions.dart';
 
 import '../../../components/cached_image_widget.dart';
 import '../../../generated/assets.dart';

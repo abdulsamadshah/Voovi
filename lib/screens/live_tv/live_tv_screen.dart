@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/live_tv/shimmer_live_tv.dart';
+import 'package:voovi/screens/live_tv/shimmer_live_tv.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../main.dart';

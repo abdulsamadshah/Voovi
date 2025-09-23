@@ -9,9 +9,9 @@ import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/utils/constants.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/utils/constants.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 import '../network/core_api.dart';
 import '../main.dart';

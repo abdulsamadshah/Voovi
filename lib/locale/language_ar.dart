@@ -533,7 +533,7 @@ class LanguageAr extends BaseLanguage {
   String get whatYourMobileNo => 'ما هو رقم هاتفك المحمول';
 
   @override
-  String get withAValidMobileNumberYouCanConnectWithStreamit => 'باستخدام رقم هاتف محمول صالح، يمكنك الاتصال Voovi';
+  String get withAValidMobileNumberYouCanConnectWithStreamit => 'باستخدام رقم هاتف محمول صالح، يمكنك الاتصال voovi';
 
   @override
   String get otpSentToYourSMS => 'تم إرسال OTP إلى الرسائل القصيرة الخاصة بك!';

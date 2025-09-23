@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:Voovi/components/shimmer_widget.dart';
+import 'package:voovi/components/shimmer_widget.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:get/get.dart';
 

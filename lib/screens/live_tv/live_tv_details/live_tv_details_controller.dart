@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:get/get.dart';
-import 'package:Voovi/screens/live_tv/live_tv_details/model/live_tv_details_response.dart';
-import 'package:Voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
+import 'package:voovi/screens/live_tv/live_tv_details/model/live_tv_details_response.dart';
+import 'package:voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
 import '../../../network/core_api.dart';
 import '../../../utils/app_common.dart';
 import '../../../utils/constants.dart';

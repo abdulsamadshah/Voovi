@@ -1,34 +1,73 @@
 {
   "project_info": {
-    "project_number": "403603261477",
-    "project_id": "jigreeapp",
-    "storage_bucket": "jigreeapp.firebasestorage.app"
+    "project_number": "132172456289",
+    "project_id": "vooviapp-e1eac",
+    "storage_bucket": "vooviapp-e1eac.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:403603261477:android:6469d76bcbec0ce5bb57cc",
+        "mobilesdk_app_id": "1:132172456289:android:ac52d2898c44276643a520",
         "android_client_info": {
-          "package_name": "com.jigreeot.app"
+          "package_name": "com.voovi.video"
         }
       },
       "oauth_client": [
         {
-          "client_id": "403603261477-e2rbtjb6km07f8e9lttqbi87efs93t94.apps.googleusercontent.com",
+          "client_id": "132172456289-2cvtnk4omllr3kg3hkiut2b7h57f2i03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voovi.video",
+            "certificate_hash": "b261136309ad3bda07eb99679f476de5b651d729"
+          }
+        },
+        {
+          "client_id": "132172456289-8l42bjudk9bj2g9shcra0g68rq5r2ljb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voovi.video",
+            "certificate_hash": "c47802a78fec9554747f1e2b5f695090cc4417ca"
+          }
+        },
+        {
+          "client_id": "132172456289-ffdnc1tv7hho7pq515jbm49kc12ahgs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voovi.video",
+            "certificate_hash": "7a8479eb9cbefec5262434eb7ff6668ed83e756a"
+          }
+        },
+        {
+          "client_id": "132172456289-kbca0lgfdm3a03cq8f591i0cpaj90c13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voovi.video",
+            "certificate_hash": "3cb47c4d2ac813a62ac1b59d4f09f57b05d1e410"
+          }
+        },
+        {
+          "client_id": "132172456289-cqki2dfl8h0s7bp03suj5u3kiqsq06iu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBUPy-2jD_BSV7yZU5F__uRqYnTbV4kNZ0"
+          "current_key": "AIzaSyAFkNzmHTpNXcy7DnsK2iTw8FSstm7gpy8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "403603261477-e2rbtjb6km07f8e9lttqbi87efs93t94.apps.googleusercontent.com",
+              "client_id": "132172456289-8ikg3b3o6ibcgdibslmpe8jd921k6ir3.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "132172456289-3irtjtdosnpe1oirh3asu242ul8174c8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.voovi.app"
+              }
             }
           ]
         }

@@ -4,13 +4,13 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/ads/custom_ads/ad_player.dart';
-import 'package:Voovi/components/cached_image_widget.dart';
-import 'package:Voovi/configs.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/ads/model/custom_ad_response.dart';
+import 'package:voovi/ads/custom_ads/ad_player.dart';
+import 'package:voovi/components/cached_image_widget.dart';
+import 'package:voovi/configs.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/ads/model/custom_ad_response.dart';
 
 class CustomAdComponent extends StatefulWidget {
   final List<CustomAd> ads;

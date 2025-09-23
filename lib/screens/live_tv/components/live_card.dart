@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/utils/colors.dart';
 import 'package:lottie/lottie.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/generated/assets.dart';
 import '../../../main.dart';
 
 class LiveCard extends StatelessWidget {

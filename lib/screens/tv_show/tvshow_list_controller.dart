@@ -2,9 +2,9 @@ import 'dart:async';
 import 'dart:developer';
 
 import 'package:get/get.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/screens/slider/slider_controller.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/screens/slider/slider_controller.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../../network/core_api.dart';
 import '../../video_players/model/video_model.dart';

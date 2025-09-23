@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/setting/account_setting/model/account_setting_response.dart';
+import 'package:voovi/screens/setting/account_setting/model/account_setting_response.dart';
 import '../../../../../main.dart';
 import 'device_card.dart';
 

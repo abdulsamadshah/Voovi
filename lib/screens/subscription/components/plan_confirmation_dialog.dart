@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/cached_image_widget.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/components/cached_image_widget.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/generated/assets.dart';
 
 class PlanConfirmationDialog extends StatelessWidget {
   final VoidCallback onConfirm;

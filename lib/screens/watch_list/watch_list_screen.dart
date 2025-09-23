@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/movie_list/shimmer_movie_list/shimmer_movie_list.dart';
-import 'package:Voovi/screens/tv_show/tv_show_screen.dart';
-import 'package:Voovi/screens/video/video_details_screen.dart';
-import 'package:Voovi/screens/watch_list/components/empty_watch_list_compnent.dart';
-import 'package:Voovi/screens/watch_list/components/poster_card.dart';
-import 'package:Voovi/screens/watch_list/shimmer_watch_list.dart';
-import 'package:Voovi/screens/watch_list/watch_list_controller.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/screens/movie_list/shimmer_movie_list/shimmer_movie_list.dart';
+import 'package:voovi/screens/tv_show/tv_show_screen.dart';
+import 'package:voovi/screens/video/video_details_screen.dart';
+import 'package:voovi/screens/watch_list/components/empty_watch_list_compnent.dart';
+import 'package:voovi/screens/watch_list/components/poster_card.dart';
+import 'package:voovi/screens/watch_list/shimmer_watch_list.dart';
+import 'package:voovi/screens/watch_list/watch_list_controller.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/generated/assets.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../components/cached_image_widget.dart';

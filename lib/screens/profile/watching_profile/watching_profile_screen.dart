@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_scaffold.dart';
-import 'package:Voovi/screens/profile/watching_profile/components/add_profile_component.dart';
-import 'package:Voovi/screens/profile/watching_profile/components/profile_component.dart';
-import 'package:Voovi/screens/profile/watching_profile/model/profile_watching_model.dart';
-import 'package:Voovi/screens/profile/watching_profile/watching_profile_controller.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/utils/empty_error_state_widget.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/components/app_scaffold.dart';
+import 'package:voovi/screens/profile/watching_profile/components/add_profile_component.dart';
+import 'package:voovi/screens/profile/watching_profile/components/profile_component.dart';
+import 'package:voovi/screens/profile/watching_profile/model/profile_watching_model.dart';
+import 'package:voovi/screens/profile/watching_profile/watching_profile_controller.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/utils/empty_error_state_widget.dart';
+import 'package:voovi/generated/assets.dart';
 
 import '../../../main.dart';
 import '../../setting/account_setting/components/logout_account_component.dart';

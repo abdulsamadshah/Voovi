@@ -3,8 +3,8 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_scaffold.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/components/app_scaffold.dart';
+import 'package:voovi/utils/common_base.dart';
 
 import '../../network/core_api.dart';
 import '../../main.dart';

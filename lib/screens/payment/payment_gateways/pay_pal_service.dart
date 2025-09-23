@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_paypal_checkout/flutter_paypal_checkout.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/configs.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/configs.dart';
+import 'package:voovi/utils/app_common.dart';
 
 import '../../../main.dart';
 

@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_chrome_cast/lib.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_scaffold.dart';
-import 'package:Voovi/components/loader_widget.dart';
-import 'package:Voovi/utils/cast/controller/fc_cast_controller.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/components/app_scaffold.dart';
+import 'package:voovi/components/loader_widget.dart';
+import 'package:voovi/utils/cast/controller/fc_cast_controller.dart';
+import 'package:voovi/utils/colors.dart';
 
 import '../../main.dart';
 

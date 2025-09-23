@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/search/model/search_list_model.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/screens/search/model/search_list_model.dart';
+import 'package:voovi/utils/app_common.dart';
 
 import '../../../components/cached_image_widget.dart';
 import '../../../generated/assets.dart';

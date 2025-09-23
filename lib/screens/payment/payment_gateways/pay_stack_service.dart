@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_paystack/flutter_paystack.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/configs.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/configs.dart';
+import 'package:voovi/utils/app_common.dart';
 
 class PayStackService {
   PaystackPlugin payStackPlugin = PaystackPlugin();

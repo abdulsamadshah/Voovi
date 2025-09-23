@@ -5,7 +5,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/network/auth_apis.dart';
+import 'package:voovi/network/auth_apis.dart';
 
 import '../../../utils/common_base.dart';
 

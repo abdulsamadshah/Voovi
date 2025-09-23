@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/category_list/movie_horizontal/poster_card_component.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/components/category_list/movie_horizontal/poster_card_component.dart';
+import 'package:voovi/utils/app_common.dart';
 
 import '../../../../main.dart';
 import '../../../home/model/dashboard_res_model.dart';

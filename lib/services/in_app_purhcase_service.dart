@@ -4,9 +4,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:purchases_flutter/purchases_flutter.dart';
-import 'package:Voovi/screens/subscription/model/subscription_plan_model.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/screens/subscription/model/subscription_plan_model.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../network/core_api.dart';
 

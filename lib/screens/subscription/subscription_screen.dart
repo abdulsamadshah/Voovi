@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/subscription/shimmer_subscription_list.dart';
-import 'package:Voovi/screens/subscription/subscription_controller.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/generated/assets.dart';
+import 'package:voovi/screens/subscription/shimmer_subscription_list.dart';
+import 'package:voovi/screens/subscription/subscription_controller.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/generated/assets.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../components/cached_image_widget.dart';

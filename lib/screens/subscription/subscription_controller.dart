@@ -5,8 +5,8 @@ import 'package:nb_utils/nb_utils.dart';
 import 'package:purchases_flutter/models/offerings_wrapper.dart';
 import 'package:purchases_flutter/models/package_wrapper.dart';
 import 'package:purchases_flutter/models/store_product_wrapper.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/screens/subscription/model/subscription_plan_model.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/screens/subscription/model/subscription_plan_model.dart';
 
 import '../../network/core_api.dart';
 import '../../utils/app_common.dart';

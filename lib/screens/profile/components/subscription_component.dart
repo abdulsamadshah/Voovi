@@ -1,11 +1,11 @@
-import 'package:Voovi/screens/payment/QrPaymentScreen.dart';
+import 'package:voovi/screens/payment/QrPaymentScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/subscription/subscription_screen.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/screens/subscription/subscription_screen.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
 
 import '../../../components/cached_image_widget.dart';
 import '../../../generated/assets.dart';

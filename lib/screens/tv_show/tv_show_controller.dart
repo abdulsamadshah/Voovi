@@ -4,11 +4,11 @@ import 'dart:ui';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/tv_show/models/season_model.dart';
-import 'package:Voovi/screens/tv_show/models/tv_show_details_model.dart';
-import 'package:Voovi/screens/tv_show/models/tv_show_model.dart';
-import 'package:Voovi/utils/common_base.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/screens/tv_show/models/season_model.dart';
+import 'package:voovi/screens/tv_show/models/tv_show_details_model.dart';
+import 'package:voovi/screens/tv_show/models/tv_show_model.dart';
+import 'package:voovi/utils/common_base.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 import '../../network/core_api.dart';
 import '../../main.dart';

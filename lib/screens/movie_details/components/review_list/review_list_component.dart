@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../../../../main.dart';
 import '../../../review_list/model/review_model.dart';

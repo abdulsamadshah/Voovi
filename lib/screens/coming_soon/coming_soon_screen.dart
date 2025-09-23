@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/coming_soon/coming_soon_controller.dart';
-import 'package:Voovi/screens/coming_soon/shimmer_coming_soon.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/screens/coming_soon/coming_soon_controller.dart';
+import 'package:voovi/screens/coming_soon/shimmer_coming_soon.dart';
+import 'package:voovi/utils/colors.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../main.dart';

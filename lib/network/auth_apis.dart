@@ -6,12 +6,12 @@ import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/auth/services/social_logins.dart';
-import 'package:Voovi/screens/coming_soon/model/coming_soon_response.dart';
-import 'package:Voovi/screens/profile/watching_profile/model/profile_watching_model.dart';
-import 'package:Voovi/screens/profile/watching_profile/watching_profile_screen.dart';
-import 'package:Voovi/services/in_app_purhcase_service.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/screens/auth/services/social_logins.dart';
+import 'package:voovi/screens/coming_soon/model/coming_soon_response.dart';
+import 'package:voovi/screens/profile/watching_profile/model/profile_watching_model.dart';
+import 'package:voovi/screens/profile/watching_profile/watching_profile_screen.dart';
+import 'package:voovi/services/in_app_purhcase_service.dart';
+import 'package:voovi/utils/common_base.dart';
 
 import '../main.dart';
 import '../models/base_response_model.dart';

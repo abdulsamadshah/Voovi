@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/utils/colors.dart';
 
 class CustomProgressBar extends StatelessWidget {
   final Duration position;

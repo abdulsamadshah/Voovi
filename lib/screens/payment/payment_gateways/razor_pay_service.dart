@@ -1,8 +1,8 @@
 import 'package:nb_utils/nb_utils.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
-import 'package:Voovi/configs.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/configs.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
 
 class RazorPayService {
   static late Razorpay razorPay;

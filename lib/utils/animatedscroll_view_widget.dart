@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/loader_widget.dart';
-import 'package:Voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/components/loader_widget.dart';
+import 'package:voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
+import 'package:voovi/utils/app_common.dart';
 
 import '../components/category_list/movie_horizontal/poster_card_component.dart';
 import '../video_players/model/video_model.dart';

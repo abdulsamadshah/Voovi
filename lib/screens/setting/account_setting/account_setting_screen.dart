@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/app_dialog_widget.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/screens/profile/model/profile_detail_resp.dart';
-import 'package:Voovi/screens/setting/account_setting/components/register_mobile_component.dart';
-import 'package:Voovi/screens/setting/account_setting/shimmer_account_setting.dart';
-import 'package:Voovi/screens/setting/setting_controller.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/constants.dart';
+import 'package:voovi/components/app_dialog_widget.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/screens/profile/model/profile_detail_resp.dart';
+import 'package:voovi/screens/setting/account_setting/components/register_mobile_component.dart';
+import 'package:voovi/screens/setting/account_setting/shimmer_account_setting.dart';
+import 'package:voovi/screens/setting/setting_controller.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/constants.dart';
 
 import '../../../components/app_scaffold.dart';
 import '../../../main.dart';

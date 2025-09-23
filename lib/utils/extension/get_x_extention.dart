@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:get/get.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/utils/common_base.dart';
 
 extension ExtensionSnackbar on GetInterface {
   SnackbarController showSnackBar({

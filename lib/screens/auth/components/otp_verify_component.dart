@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/loader_widget.dart';
-import 'package:Voovi/screens/auth/sign_in/sign_in_controller.dart';
-import 'package:Voovi/utils/colors.dart';
+import 'package:voovi/components/loader_widget.dart';
+import 'package:voovi/screens/auth/sign_in/sign_in_controller.dart';
+import 'package:voovi/utils/colors.dart';
 
 import '../../../main.dart';
 import '../../../utils/common_base.dart';

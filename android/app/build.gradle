@@ -24,7 +24,7 @@ def flutterVersionName = localProperties.getProperty('flutter.versionName', '1.6
 
 
 android {
-    namespace "com.Voovi.app"
+    namespace "com.voovi.video"
     compileSdkVersion 36
     ndkVersion "29.0.13599879"
 
@@ -43,7 +43,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.Voovi.app"
+        applicationId "com.voovi.video"
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion 36
         versionCode flutterVersionCode.toInteger()

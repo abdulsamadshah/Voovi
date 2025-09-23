@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'dart:io';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/configs.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/configs.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class NewUpdateDialog extends StatelessWidget {

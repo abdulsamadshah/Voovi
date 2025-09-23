@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/components/shimmer_widget.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/components/shimmer_widget.dart';
+import 'package:voovi/utils/app_common.dart';
 
 class ShimmerMovieList extends StatelessWidget {
   const ShimmerMovieList({super.key});

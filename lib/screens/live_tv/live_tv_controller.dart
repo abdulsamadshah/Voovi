@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:Voovi/configs.dart';
-import 'package:Voovi/main.dart';
-import 'package:Voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
+import 'package:voovi/configs.dart';
+import 'package:voovi/main.dart';
+import 'package:voovi/screens/live_tv/model/live_tv_dashboard_response.dart';
 
 import '../../network/core_api.dart';
 

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:Voovi/screens/download_videos/download_controller.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
-import 'package:Voovi/video_players/video_player.dart';
+import 'package:voovi/screens/download_videos/download_controller.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/video_players/model/video_model.dart';
+import 'package:voovi/video_players/video_player.dart';
 
 import '../../../components/app_scaffold.dart';
 

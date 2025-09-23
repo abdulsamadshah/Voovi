@@ -11,11 +11,11 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:share_plus/share_plus.dart';
-import 'package:Voovi/components/new_update_dialog.dart';
-import 'package:Voovi/utils/extension/get_x_extention.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
-import 'package:Voovi/video_players/video_player_controller.dart';
+import 'package:voovi/components/new_update_dialog.dart';
+import 'package:voovi/utils/extension/get_x_extention.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/video_players/model/video_model.dart';
+import 'package:voovi/video_players/video_player_controller.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../configs.dart';
@@ -424,7 +424,7 @@ String movieDurationTimeWithFull(String time) {
 }
 
 class DashboardCategoryType {
-  static const rateApp = 'rate-our-app';
+  static const rateApp = 'rate-our-video';
   static const genres = 'genres';
   static const tvShow = 'popular_tvshow';
   static const horizontalList = 'horizontal_list';

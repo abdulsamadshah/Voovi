@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/screens/download_videos/components/download_movie_card.dart';
-import 'package:Voovi/screens/download_videos/download_controller.dart';
-import 'package:Voovi/generated/assets.dart';
-import 'package:Voovi/screens/download_videos/download_details/download_details_screen.dart';
-import 'package:Voovi/video_players/model/video_model.dart';
+import 'package:voovi/screens/download_videos/components/download_movie_card.dart';
+import 'package:voovi/screens/download_videos/download_controller.dart';
+import 'package:voovi/generated/assets.dart';
+import 'package:voovi/screens/download_videos/download_details/download_details_screen.dart';
+import 'package:voovi/video_players/model/video_model.dart';
 
 import '../../components/app_scaffold.dart';
 import '../../components/cached_image_widget.dart';

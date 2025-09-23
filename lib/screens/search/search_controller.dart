@@ -4,9 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:speech_to_text/speech_to_text.dart' as stt;
-import 'package:Voovi/network/core_api.dart';
-import 'package:Voovi/screens/watch_list/model/watch_list_resp.dart';
-import 'package:Voovi/utils/app_common.dart';
+import 'package:voovi/network/core_api.dart';
+import 'package:voovi/screens/watch_list/model/watch_list_resp.dart';
+import 'package:voovi/utils/app_common.dart';
 
 import '../../utils/constants.dart';
 import '../../video_players/model/video_model.dart';

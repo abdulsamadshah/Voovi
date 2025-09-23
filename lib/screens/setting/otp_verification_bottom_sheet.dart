@@ -3,12 +3,12 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:Voovi/network/core_api.dart';
-import 'package:Voovi/screens/setting/pin_generation_bottom_sheet.dart';
-import 'package:Voovi/screens/setting/setting_controller.dart';
-import 'package:Voovi/utils/app_common.dart';
-import 'package:Voovi/utils/colors.dart';
-import 'package:Voovi/utils/common_base.dart';
+import 'package:voovi/network/core_api.dart';
+import 'package:voovi/screens/setting/pin_generation_bottom_sheet.dart';
+import 'package:voovi/screens/setting/setting_controller.dart';
+import 'package:voovi/utils/app_common.dart';
+import 'package:voovi/utils/colors.dart';
+import 'package:voovi/utils/common_base.dart';
 import '../../main.dart';
 
 class OtpVerificationBottomSheet extends StatelessWidget {
