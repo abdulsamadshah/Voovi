@@ -176,7 +176,7 @@ class LanguageHi extends BaseLanguage {
   String get optionDesp => 'अपनी देखने की प्राथमिकताओं के अनुरूप विभिन्न शैलियों में क्यूरेटेड शो देखें।';
 
   @override
-  String get welcomeBackToStreamIt => 'Desi Garmi में आपका पुनः स्वागत है!';
+  String get welcomeBackToStreamIt => 'Voovi में आपका पुनः स्वागत है!';
 
   @override
   String get weHaveEagerlyAwaitedYourReturn => 'हमने आपकी वापसी का बेसब्री से इंतजार किया है.';

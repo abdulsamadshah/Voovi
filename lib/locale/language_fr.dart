@@ -176,7 +176,7 @@ class LanguageFr extends BaseLanguage {
   String get optionDesp => 'Explorez des émissions sélectionnées dans tous les genres, adaptées à vos préférences de visionnage.';
 
   @override
-  String get welcomeBackToStreamIt => 'Bienvenue sur Desi Garmi !';
+  String get welcomeBackToStreamIt => 'Bienvenue sur Voovi !';
 
   @override
   String get weHaveEagerlyAwaitedYourReturn => 'Nous attendions avec impatience votre retour.';
@@ -446,7 +446,7 @@ class LanguageFr extends BaseLanguage {
   String get savechanges => 'Enregistrer les modifications';
 
   @override
-  String get loginToStreamit => 'Connectez-vous à Desi Garmi';
+  String get loginToStreamit => 'Connectez-vous à Voovi';
 
   @override
   String get startWatchingFromWhereYouLeftOff => 'Commencez à regarder là où vous vous étiez arrêté';
@@ -533,7 +533,7 @@ class LanguageFr extends BaseLanguage {
   String get whatYourMobileNo => 'Quel est votre numéro de portable';
 
   @override
-  String get withAValidMobileNumberYouCanConnectWithStreamit => 'Avec un numéro de mobile valide, vous pouvez vous connecter avec Desi Garmi';
+  String get withAValidMobileNumberYouCanConnectWithStreamit => 'Avec un numéro de mobile valide, vous pouvez vous connecter avec Voovi';
 
   @override
   String get otpSentToYourSMS => 'OTP envoyé à votre SMS !';

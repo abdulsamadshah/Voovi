@@ -176,7 +176,7 @@ class LanguageAr extends BaseLanguage {
   String get optionDesp => 'استكشف العروض المنسقة عبر الأنواع المصممة لتناسب تفضيلات المشاهدة الخاصة بك.';
 
   @override
-  String get welcomeBackToStreamIt => 'مرحبًا بك مرة أخرى في Desi Garmi!';
+  String get welcomeBackToStreamIt => 'مرحبًا بك مرة أخرى في Voovi';
 
   @override
   String get weHaveEagerlyAwaitedYourReturn => 'لقد انتظرنا عودتك بفارغ الصبر.';
@@ -446,7 +446,7 @@ class LanguageAr extends BaseLanguage {
   String get savechanges => 'حفظ التغييرات';
 
   @override
-  String get loginToStreamit => 'تسجيل الدخول إلى Desi Garmi';
+  String get loginToStreamit => 'تسجيل الدخول إلى Voovi';
 
   @override
   String get startWatchingFromWhereYouLeftOff => 'ابدأ المشاهدة من حيث توقفت';

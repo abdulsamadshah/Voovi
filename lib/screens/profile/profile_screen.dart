@@ -94,7 +94,7 @@ class ProfileScreen extends StatelessWidget {
                     profileCont.getProfileDetail(showLoader: false);
                   },
                 ),
-                QrSubscriptionComponent(),
+                // QrSubscriptionComponent(),
                 ProfileCardComponent(profileInfo: profileCont.profileDetailsResp.value),
                 if (isLoggedIn.value) ...[
                   AppButton(

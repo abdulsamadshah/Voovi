@@ -176,7 +176,7 @@ class LanguageEn extends BaseLanguage {
   String get optionDesp => 'Explore curated shows across genres tailored to suit your viewing preferences.';
 
   @override
-  String get welcomeBackToStreamIt => 'Welcome Back to Desi Garmi!';
+  String get welcomeBackToStreamIt => 'Welcome Back to Voovi';
 
   @override
   String get weHaveEagerlyAwaitedYourReturn => 'We have eagerly awaited your return.';
@@ -446,7 +446,7 @@ class LanguageEn extends BaseLanguage {
   String get savechanges => 'Save changes';
 
   @override
-  String get loginToStreamit => 'Login to Desi Garmi';
+  String get loginToStreamit => 'Login to Voovi';
 
   @override
   String get startWatchingFromWhereYouLeftOff => 'Start watching from where you left off';

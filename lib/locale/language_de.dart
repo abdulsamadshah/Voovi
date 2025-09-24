@@ -176,7 +176,7 @@ class LanguageDe extends BaseLanguage {
   String get optionDesp => 'Entdecken Sie kuratierte Shows verschiedener Genres, die auf Ihre Sehvorlieben zugeschnitten sind.';
 
   @override
-  String get welcomeBackToStreamIt => 'Willkommen zurück bei Desi Garmi!';
+  String get welcomeBackToStreamIt => 'Willkommen zurück bei Voovi';
 
   @override
   String get weHaveEagerlyAwaitedYourReturn => 'Wir haben sehnsüchtig auf Ihre Rückkehr gewartet.';
@@ -446,7 +446,7 @@ class LanguageDe extends BaseLanguage {
   String get savechanges => 'Änderungen speichern';
 
   @override
-  String get loginToStreamit => 'Melden Sie sich bei Desi Garmi an';
+  String get loginToStreamit => 'Melden Sie sich bei Voovi an';
 
   @override
   String get startWatchingFromWhereYouLeftOff => 'Fangen Sie dort an, wo Sie aufgehört haben';
