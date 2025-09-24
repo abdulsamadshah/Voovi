@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 const appColorPrimary = Color(0xFFCD3B74);
-const appColorSecondary = Color(0xFFA7A7A7);
-const lightPrimaryColor = Color(0xFF5E3A49);
+const appColorSecondary = Color(0xFFF67E7D);
+const lightPrimaryColor = Color(0xFFA47379);
 const goldColor = Color(0xFFda9539);
 const canvasColor = Color(0xFF121D24);
 const fullDarkCanvasColorDark = Color(0xFF12161E);
