@@ -73,11 +73,13 @@ class SubscriptionScreen extends StatelessWidget {
                       retryText: "",
                       imageWidget: const EmptyStateWidget(),
                     ).paddingSymmetric(horizontal: 16)
+
                   else
                     SubscriptionListComponent(
                       planList: subscriptionCont.planList,
                       subscriptionController: subscriptionCont,
                     ).paddingBottom(16).visible(!subscriptionCont.isLoading.value),
+
                 ],
               ).paddingSymmetric(horizontal: 16);
             },

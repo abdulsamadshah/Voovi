@@ -23,7 +23,8 @@ class SubscriptionListComponent extends StatelessWidget {
       listAnimationType: commonListAnimationType,
       itemBuilder: (context, index) {
         return Obx(
-          () => SubscriptionCard(
+          () =>
+              SubscriptionCard(
             planDet: planList[index],
             isSelected: subscriptionController.selectPlan.value.id == planList[index].id,
             revenueCatProduct: subscriptionController.getSelectedPlanFromRevenueCat(planList[index])?.storeProduct,
